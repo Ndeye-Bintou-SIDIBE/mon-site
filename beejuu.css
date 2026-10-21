@@ -1,0 +1,17 @@
+body{ 
+    font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: beige; 
+  text-align: center;
+}
+h1{
+  color:black;
+
+}
+ul{
+  list-style-position: inside;
+}
+body{ 
+  max-width: 650px;
+  margin: 40px;
+  padding: 0 20px;
+}
